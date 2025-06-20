@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: mlops10
-        image: 
+        image: yeshwanththota33/mlopsproject10:latest
         ports:
         - containerPort: 5000
