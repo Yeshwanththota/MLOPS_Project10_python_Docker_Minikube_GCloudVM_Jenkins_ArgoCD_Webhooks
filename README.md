@@ -9,6 +9,8 @@
   <img src="https://raw.githubusercontent.com/kubernetes/minikube/master/site/static/images/logo.png" title="Minikube" alt="Minikube" width="40" height="40"/>&nbsp; 
   <img src="https://img.icons8.com/ios-filled/50/000000/webhook.png" title="Webhooks" alt="Webhooks" width="40" height="40"/>&nbsp; </p>
 
+![Screenshot 2025-06-20 192836](https://github.com/user-attachments/assets/aa782dc4-80f0-4349-b416-db92826df478)
+
 **Highlights**
 
 1.	GItOps – Truth source
@@ -240,5 +242,5 @@ CI-CD Automation using Jenkins, ArgoCD, Webhooks
 26.	Clean up. Delete VM
 27.	Done
 
-![Screenshot 2025-06-20 192836](https://github.com/user-attachments/assets/aa782dc4-80f0-4349-b416-db92826df478)
+
 
