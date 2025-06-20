@@ -1,6 +1,6 @@
 pipeline {
     agent any
-    environments {
+    environment {
         DOCKER_HUB_REPO = "yeshwanththota33/mlopsproject10"
         DOCKER_HUB_CREDENTIALS = "mlops10"
     }
