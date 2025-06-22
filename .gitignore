@@ -2,3 +2,4 @@ venv/
 logs/
 MLOPS_project10.egg-info/
 .*ipynb
+notebooks/
