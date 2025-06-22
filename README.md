@@ -9,6 +9,8 @@
   <img src="https://raw.githubusercontent.com/kubernetes/minikube/master/site/static/images/logo.png" title="Minikube" alt="Minikube" width="40" height="40"/>&nbsp; 
   <img src="https://img.icons8.com/ios-filled/50/000000/webhook.png" title="Webhooks" alt="Webhooks" width="40" height="40"/>&nbsp; </p>
 
+**Summary:** Implemented a GitOps workflow using Jenkins for CI, ArgoCD for CD, and Minikube for local Kubernetes clusters on a GCP VM. Automated the build, push, and deployment of Docker images, with ArgoCD ensuring continuous delivery and rollback on failure. Integrated GitHub webhooks for end-to-end automation.
+
 ![Screenshot 2025-06-20 192836](https://github.com/user-attachments/assets/aa782dc4-80f0-4349-b416-db92826df478)
 
 **Highlights**
